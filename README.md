@@ -1,1 +1,0 @@
-# fullstack-interview-guide
